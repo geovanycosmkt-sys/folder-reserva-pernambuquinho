@@ -1,0 +1,9 @@
+/* The tag/cutting board shape using SVG clip-path */
+  clip-path: path('M 25,580 Q 0,580 0,555 L 0,170 Q 0,155 5,145 Q 12,134 22,128 Q 32,122 37,112 C 48,88 65,68 93,58 C 121,68 138,88 149,112 Q 154,122 164,128 Q 174,134 181,145 Q 186,155 186,170 L 186,555 Q 186,580 161,580 Z');
+
+FORMATO VALIDADO em 15/04/2026:
+- Arco ogival com shoulders (laterais entram pra dentro antes do domo)
+- Domo pequeno e bem arredondado
+- Corpo retangular com cantos arredondados (radius 25px)
+- Proporção: 29cm altura x 21cm largura (A4)
+- Cada painel: ~7cm largura x 29cm altura
